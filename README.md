@@ -1,3 +1,3 @@
-forked from https://github.com/uncatch/uncatch-image_gallery_saver
-
+forked from https://github.com/hui-z/image_gallery_saver
+<br>
 modified for my projects
